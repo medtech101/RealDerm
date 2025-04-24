@@ -1,0 +1,101 @@
+image_id,dx,age,sex,localization,severity,suggested_action
+HAM10000_img_0001,melanoma,45,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0002,melanoma,46,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0003,melanoma,47,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0004,melanoma,48,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0005,melanoma,49,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0006,melanoma,50,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0007,melanoma,51,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0008,melanoma,52,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0009,melanoma,53,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0010,melanoma,54,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0011,melanoma,45,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0012,melanoma,46,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0013,melanoma,47,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0014,melanoma,48,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0015,melanoma,49,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0016,melanoma,50,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0017,melanoma,51,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0018,melanoma,52,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0019,melanoma,53,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0020,melanoma,54,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0021,melanoma,45,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0022,melanoma,46,female,lower extremity,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0023,melanoma,47,male,face,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0024,melanoma,48,female,chest,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0025,melanoma,49,male,back,High - Urgent,Urgent derm referral for biopsy
+HAM10000_img_0026,nv,50,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0027,nv,51,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0028,nv,52,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0029,nv,53,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0030,nv,54,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0031,nv,45,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0032,nv,46,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0033,nv,47,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0034,nv,48,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0035,nv,49,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0036,nv,50,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0037,nv,51,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0038,nv,52,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0039,nv,53,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0040,nv,54,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0041,nv,45,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0042,nv,46,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0043,nv,47,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0044,nv,48,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0045,nv,49,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0046,nv,50,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0047,nv,51,male,face,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0048,nv,52,female,chest,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0049,nv,53,male,back,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0050,nv,54,female,lower extremity,Low - Benign,Routine monitoring unless changes noted
+HAM10000_img_0051,bcc,45,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0052,bcc,46,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0053,bcc,47,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0054,bcc,48,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0055,bcc,49,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0056,bcc,50,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0057,bcc,51,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0058,bcc,52,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0059,bcc,53,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0060,bcc,54,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0061,bcc,45,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0062,bcc,46,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0063,bcc,47,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0064,bcc,48,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0065,bcc,49,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0066,bcc,50,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0067,bcc,51,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0068,bcc,52,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0069,bcc,53,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0070,bcc,54,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0071,bcc,45,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0072,bcc,46,female,chest,Medium,Derm referral for possible excision
+HAM10000_img_0073,bcc,47,male,back,Medium,Derm referral for possible excision
+HAM10000_img_0074,bcc,48,female,lower extremity,Medium,Derm referral for possible excision
+HAM10000_img_0075,bcc,49,male,face,Medium,Derm referral for possible excision
+HAM10000_img_0076,akiec,50,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0077,akiec,51,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0078,akiec,52,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0079,akiec,53,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0080,akiec,54,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0081,akiec,45,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0082,akiec,46,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0083,akiec,47,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0084,akiec,48,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0085,akiec,49,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0086,akiec,50,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0087,akiec,51,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0088,akiec,52,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0089,akiec,53,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0090,akiec,54,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0091,akiec,45,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0092,akiec,46,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0093,akiec,47,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0094,akiec,48,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0095,akiec,49,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0096,akiec,50,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0097,akiec,51,male,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0098,akiec,52,female,lower extremity,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0099,akiec,53,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+HAM10000_img_0100,akiec,54,female,chest,Medium - Precancerous,Biopsy or monitor with dermatoscope
