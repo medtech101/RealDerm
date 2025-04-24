@@ -1,0 +1,33 @@
+Mock Image Name,Simulated Class,Severity Level,Suggested Action,Common Location,Infectious?,Painful?,AI Confidence Score (%)
+img_boil.jpg,Boil (Furuncle),Moderate,"Warm compress, monitor for drainage or fever","Back, neck, thighs",Yes,Yes,93
+img_melanoma.jpg,Melanoma,High - Urgent,Urgent dermatology referral for biopsy,Anywhere,No,Sometimes,87
+img_bcc.jpg,Basal Cell Carcinoma,Medium,"Derm referral, consider biopsy","Face, nose, ears",No,Rarely,81
+img_nevus.jpg,Benign Nevus,Low - Benign,"Routine monitoring, no urgent action","Trunk, limbs",No,No,95
+img_psoriasis.jpg,Psoriasis,Low,"Topical steroids, emollients","Elbows, knees, scalp",No,Sometimes,90
+img_eczema.jpg,Eczema,Low,"Hydration, antihistamines, topical corticosteroids",Flexural surfaces,No,Sometimes,88
+img_cyst.jpg,Sebaceous Cyst,Low,Monitor or excision if painful,"Scalp, back, face",No,Sometimes,85
+img_abscess.jpg,Skin Abscess,Moderate,I&D or antibiotics depending on severity,"Buttocks, groin",Yes,Yes,91
+img_lipoma.jpg,Lipoma,Low,Usually no treatment needed unless painful,"Back, shoulders",No,No,96
+img_actinic_keratosis.jpg,Actinic Keratosis,Medium,Derm evaluation for biopsy due to precancerous risk,"Forearms, scalp",No,Rarely,78
+img_hsv.jpg,Herpes Simplex,Medium,"Antivirals if recurrent, supportive care","Lips, genitals",Yes,Yes,82
+img_wart.jpg,Verruca (Wart),Low,Cryotherapy or salicylic acid,"Hands, feet",Yes,Rarely,86
+img_condition_13.jpg,Tinea Corporis,Low,"Topical antifungal, hygiene education","Trunk, arms",Yes,No,90
+img_condition_14.jpg,Rosacea,Low,Topical metronidazole or doxycycline,"Face (cheeks, nose)",No,Sometimes,88
+img_condition_15.jpg,Scabies,Moderate,"Permethrin cream, treat close contacts","Web spaces, waistline",Yes,Itchy,89
+img_condition_16.jpg,Lichen Planus,Medium,"Topical steroids, refer if persistent","Wrists, ankles",No,Itchy,85
+img_condition_17.jpg,Contact Dermatitis,Low,"Avoid allergens, topical corticosteroids","Hands, neck",No,Itchy,87
+img_condition_18.jpg,Squamous Cell Carcinoma,High - Urgent,Urgent biopsy and excision,Sun-exposed areas,No,Sometimes,92
+img_condition_19.jpg,Keratoacanthoma,Medium,Monitor or excise if rapid growth,"Face, arms",No,No,86
+img_condition_20.jpg,Molluscum Contagiosum,Low,Cryotherapy or self-limited in children,"Trunk, groin",Yes,No,90
+img_condition_21.jpg,Cutaneous Horn,Medium,Derm referral for biopsy,"Scalp, face",No,No,84
+img_condition_22.jpg,Pityriasis Rosea,Low,"Supportive care, resolves in 6-8 weeks",Trunk,No,No,83
+img_condition_23.jpg,Dermatofibroma,Low,"Reassurance, excise if bothersome","Shins, forearms",No,No,88
+img_condition_24.jpg,Vitiligo,Low,"Reassurance, no treatment unless cosmetic","Face, hands",No,No,95
+img_condition_25.jpg,Urticaria,Low,"Antihistamines, identify triggers","Trunk, limbs",No,Itchy,80
+img_condition_26.jpg,Acne Vulgaris,Low,Topical or oral retinoids,"Face, back",No,Sometimes,91
+img_condition_27.jpg,Impetigo,Moderate,"Topical mupirocin, hygiene","Face, nose",Yes,Sometimes,89
+img_condition_28.jpg,Erysipelas,Moderate,"Oral antibiotics, monitor closely","Face, legs",Yes,Yes,87
+img_condition_29.jpg,Mycosis Fungoides,High,Refer to oncology/dermatology,"Trunk, bathing suit area",No,Sometimes,85
+img_condition_30.jpg,Acanthosis Nigricans,Low,"Treat underlying cause (DM, obesity)","Neck, axilla",No,No,94
+img_condition_31.jpg,Seborrheic Keratosis,Low,"Reassure, cosmetic treatment optional","Back, chest",No,No,93
+img_condition_32.jpg,Chilblains (Pernio),Low,"Warm clothing, vasodilators","Toes, fingers",No,Sometimes,84
