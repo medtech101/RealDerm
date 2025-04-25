@@ -1,0 +1,101 @@
+image_id,dx,age,sex,localization,severity,suggested_action
+ISIC_0024509,nv,35,female,back,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0024521,melanoma,52,male,trunk,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0024535,akiec,31,female,chest,Low - Benign,Routine monitoring unless changes noted
+ISIC_0024723,nv,46,male,leg,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0024737,akiec,60,male,trunk,High - Urgent,Derm referral for possible excision
+ISIC_0024904,melanoma,58,male,neck,High - Urgent,Urgent derm referral for biopsy
+ISIC_0024910,nv,61,female,abdomen,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0024938,nv,43,male,neck,Medium,Derm referral for possible excision
+ISIC_0025159,akiec,48,female,leg,Medium,Urgent derm referral for biopsy
+ISIC_0025165,melanoma,31,male,abdomen,Medium,Routine monitoring unless changes noted
+ISIC_0025171,akiec,53,male,scalp,Medium,Urgent derm referral for biopsy
+ISIC_0025373,melanoma,39,male,abdomen,Medium,Urgent derm referral for biopsy
+ISIC_0025398,nv,42,female,scalp,Medium,Derm referral for possible excision
+ISIC_0025415,melanoma,62,female,abdomen,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0025429,nv,53,female,abdomen,Medium,Biopsy or monitor with dermatoscope
+ISIC_0025603,bcc,67,male,back,Low - Benign,Derm referral for possible excision
+ISIC_0025617,nv,30,female,back,Medium,Urgent derm referral for biopsy
+ISIC_0025818,akiec,58,male,neck,High - Urgent,Derm referral for possible excision
+ISIC_0025824,melanoma,46,female,abdomen,Low - Benign,Derm referral for possible excision
+ISIC_0025830,melanoma,73,male,back,Medium,Biopsy or monitor with dermatoscope
+ISIC_0026120,bcc,30,male,neck,Low - Benign,Routine monitoring unless changes noted
+ISIC_0026134,akiec,63,male,scalp,Low - Benign,Routine monitoring unless changes noted
+ISIC_0026322,nv,37,female,chest,Medium,Biopsy or monitor with dermatoscope
+ISIC_0026336,nv,57,female,neck,Medium,Routine monitoring unless changes noted
+ISIC_0026444,akiec,56,female,trunk,Medium,Routine monitoring unless changes noted
+ISIC_0026450,melanoma,36,female,trunk,High - Urgent,Routine monitoring unless changes noted
+ISIC_0026478,akiec,67,female,trunk,High - Urgent,Derm referral for possible excision
+ISIC_0026487,akiec,56,female,trunk,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0026493,akiec,62,male,leg,Low - Benign,Routine monitoring unless changes noted
+ISIC_0026646,bcc,45,female,trunk,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0026652,bcc,31,female,neck,High - Urgent,Derm referral for possible excision
+ISIC_0026685,akiec,59,male,neck,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0026691,nv,31,male,scalp,Medium,Biopsy or monitor with dermatoscope
+ISIC_0026849,akiec,68,female,face,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0026861,bcc,57,female,leg,Low - Benign,Routine monitoring unless changes noted
+ISIC_0026875,akiec,68,male,neck,Medium,Biopsy or monitor with dermatoscope
+ISIC_0027000,nv,53,male,scalp,Low - Benign,Urgent derm referral for biopsy
+ISIC_0027014,nv,70,male,scalp,High - Urgent,Routine monitoring unless changes noted
+ISIC_0027028,akiec,39,male,face,High - Urgent,Routine monitoring unless changes noted
+ISIC_0027202,bcc,30,male,trunk,Medium - Precancerous,Biopsy or monitor with dermatoscope
+ISIC_0027348,nv,74,male,abdomen,Medium - Precancerous,Derm referral for possible excision
+ISIC_0027360,bcc,54,male,face,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0027374,akiec,72,male,neck,Medium,Derm referral for possible excision
+ISIC_0027375,akiec,62,male,scalp,Low - Benign,Routine monitoring unless changes noted
+ISIC_0027406,bcc,68,female,abdomen,Low - Benign,Urgent derm referral for biopsy
+ISIC_0027407,nv,43,female,scalp,Medium,Routine monitoring unless changes noted
+ISIC_0027412,melanoma,46,male,leg,Medium - Precancerous,Derm referral for possible excision
+ISIC_0027413,bcc,48,male,neck,High - Urgent,Urgent derm referral for biopsy
+ISIC_0027558,nv,59,male,chest,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0027564,akiec,37,male,face,High - Urgent,Urgent derm referral for biopsy
+ISIC_0027570,akiec,68,female,abdomen,High - Urgent,Urgent derm referral for biopsy
+ISIC_0027604,bcc,57,female,chest,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0027605,akiec,72,female,scalp,Medium,Routine monitoring unless changes noted
+ISIC_0027610,akiec,45,female,abdomen,Low - Benign,Derm referral for possible excision
+ISIC_0027611,akiec,31,female,chest,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0027638,nv,41,male,chest,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0027766,nv,36,female,back,Medium,Routine monitoring unless changes noted
+ISIC_0027772,nv,53,female,abdomen,High - Urgent,Routine monitoring unless changes noted
+ISIC_0027799,nv,52,female,leg,High - Urgent,Urgent derm referral for biopsy
+ISIC_0027822,akiec,46,female,chest,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0027823,melanoma,36,male,abdomen,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0027836,bcc,44,male,chest,Low - Benign,Urgent derm referral for biopsy
+ISIC_0027837,nv,67,female,leg,High - Urgent,Routine monitoring unless changes noted
+ISIC_0027941,melanoma,51,female,scalp,Medium - Precancerous,Biopsy or monitor with dermatoscope
+ISIC_0027955,akiec,39,male,face,Medium - Precancerous,Biopsy or monitor with dermatoscope
+ISIC_0027969,bcc,30,female,scalp,Medium,Derm referral for possible excision
+ISIC_0027982,bcc,35,female,trunk,Medium - Precancerous,Biopsy or monitor with dermatoscope
+ISIC_0027996,akiec,55,male,neck,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0028047,melanoma,36,female,trunk,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0028052,bcc,60,female,scalp,High - Urgent,Derm referral for possible excision
+ISIC_0028053,melanoma,32,male,neck,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0028119,akiec,42,male,scalp,Low - Benign,Routine monitoring unless changes noted
+ISIC_0028131,nv,39,male,trunk,Medium,Derm referral for possible excision
+ISIC_0028244,bcc,31,female,chest,High - Urgent,Urgent derm referral for biopsy
+ISIC_0028245,akiec,53,female,leg,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0028250,melanoma,33,male,chest,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0028278,nv,69,male,leg,Medium,Derm referral for possible excision
+ISIC_0028279,akiec,52,female,leg,Low - Benign,Derm referral for possible excision
+ISIC_0028286,bcc,65,female,neck,High - Urgent,Urgent derm referral for biopsy
+ISIC_0028287,melanoma,32,female,abdomen,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0028293,nv,70,female,trunk,Medium - Precancerous,Derm referral for possible excision
+ISIC_0028327,nv,51,female,abdomen,High - Urgent,Derm referral for possible excision
+ISIC_0028333,akiec,35,female,chest,Medium,Derm referral for possible excision
+ISIC_0028441,melanoma,42,female,back,Medium - Precancerous,Biopsy or monitor with dermatoscope
+ISIC_0028455,melanoma,32,female,back,High - Urgent,Routine monitoring unless changes noted
+ISIC_0028469,nv,65,male,back,Low - Benign,Routine monitoring unless changes noted
+ISIC_0028482,akiec,73,male,back,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0028496,akiec,72,female,trunk,High - Urgent,Biopsy or monitor with dermatoscope
+ISIC_0028522,nv,51,female,chest,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0028523,bcc,43,male,trunk,Medium,Biopsy or monitor with dermatoscope
+ISIC_0028536,melanoma,40,female,scalp,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0028709,bcc,73,male,leg,High - Urgent,Routine monitoring unless changes noted
+ISIC_0028720,melanoma,35,male,leg,High - Urgent,Urgent derm referral for biopsy
+ISIC_0028721,akiec,34,male,scalp,Medium,Routine monitoring unless changes noted
+ISIC_0028734,bcc,51,female,trunk,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0029167,nv,32,female,chest,Low - Benign,Urgent derm referral for biopsy
+ISIC_0029172,bcc,69,male,back,Low - Benign,Biopsy or monitor with dermatoscope
+ISIC_0029173,nv,32,male,abdomen,Medium - Precancerous,Routine monitoring unless changes noted
+ISIC_0029198,akiec,52,male,leg,Medium - Precancerous,Urgent derm referral for biopsy
+ISIC_0029199,bcc,33,female,neck,High - Urgent,Routine monitoring unless changes noted
